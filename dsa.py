@@ -1,6 +1,6 @@
 shift = 3 # defining the shift count
 
-text = "DALAHIGON"
+text = "cagubcub"
 
 encryption = ""
 
@@ -34,4 +34,4 @@ print("Plain text:",text)
 
 print("Encrypted text:",encryption)
 
-print("DALAHIGON JESSMAR IVAN ORAS.")
+print("aldrin joe cagubcub.")
